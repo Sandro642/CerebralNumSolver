@@ -1,7 +1,5 @@
 # Exemple d'importation de CerebralNumSolver en Java 📥
 
-Ajouter le jar.
-
 <a href="https://github.com/Sandro642/CerebralNumSolver/releases/download/1.0.0/CNSAlgorithm.jar">Installer le jar.</a>
 
 ```
