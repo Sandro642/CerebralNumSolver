@@ -18,6 +18,14 @@ CerebralNumSolver est une classe Go (Golang) développée par Sandro642, un dév
 
 Le CerebralNumSolver est conçu pour résoudre des problèmes numériques en utilisant une approche cérébrale, ce qui signifie qu'il essaie d'adopter une stratégie intelligente basée sur les données fournies. L'utilisateur peut ajouter des propositions de nombres à l'objet CerebralNumSolver à l'aide de la méthode AddGuess(). Ensuite, la méthode CalculateTarget() utilise une fonction mathématique complexe pour déterminer le nombre cible à atteindre. Pour l'exemple actuel, la médiane des propositions est utilisée comme fonction mathématique.
 
+## Comment importer les libs ? 🤔
+
+Consulter les fichiers readme pour comprendre.
+
+<a href="https://github.com/Sandro642/CerebralNumSolver/Version-GO/readme.md/">Version Go</a>
+<a href="https://github.com/Sandro642/CerebralNumSolver/Version-Java/readme.md/">Version Java</a>
+<a href="https://github.com/Sandro642/CerebralNumSolver/Version-JS/readme.md/">Version JS</a>
+
 ## Auteur et Contribution 💡
 
 Ce projet a été entièrement développé par Sandro642, un développeur passionné et créatif. Il a conçu CerebralNumSolver comme une solution pour résoudre des problèmes numériques d'une manière intelligente et réfléchie.
