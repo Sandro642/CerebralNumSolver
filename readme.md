@@ -1,6 +1,6 @@
 # CerebralNumSolver 👨‍💻
 
-CerebralNumSolver est une classe Go (Golang) développée par Sandro642, un développeur passionné et inventif. Il s'agit d'un solveur numérique intelligent qui offre une approche cérébrale pour résoudre des problèmes complexes impliquant des nombres.
+CerebralNumSolver est une lib (Java, JS, Go) développée par Sandro642, un développeur passionné et inventif. Il s'agit d'un solveur numérique intelligent qui offre une approche cérébrale pour résoudre des problèmes complexes impliquant des nombres.
 
 ## Fonctionnalités 🎯
 
