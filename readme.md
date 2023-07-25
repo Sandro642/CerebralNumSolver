@@ -23,8 +23,11 @@ Le CerebralNumSolver est conçu pour résoudre des problèmes numériques en uti
 Consulter les fichiers readme pour comprendre.
 
 <a href="https://github.com/Sandro642/CerebralNumSolver/Version-GO/readme.md/">Version Go</a>
+<br>
 <a href="https://github.com/Sandro642/CerebralNumSolver/Version-Java/readme.md/">Version Java</a>
+<br>
 <a href="https://github.com/Sandro642/CerebralNumSolver/Version-JS/readme.md/">Version JS</a>
+<br>
 
 ## Auteur et Contribution 💡
 
